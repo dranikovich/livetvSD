@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Golos';
+    font-weight: 400;
+    src: url(./Golos-Text_Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Golos';
+    font-weight: 600;
+    src: url(./Golos-Text_DemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Golos';
+    font-weight: 700;
+    src: url(./Golos-Text_Bold.ttf);
+}
